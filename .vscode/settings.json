@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "charconv": "cpp",
+        "iostream": "cpp",
+        "string": "cpp",
+        "functional": "cpp"
+    }
+}
